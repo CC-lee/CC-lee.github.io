@@ -1,0 +1,1 @@
+var adminToken = require('../../middleware/checkAdminToken')
